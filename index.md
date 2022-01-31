@@ -33,3 +33,9 @@ Click [here](https://repl-authentication.shaheenumair.repl.co) to view this proj
 1. English (Fluent)
 2. Urdu (Novice)
 3. Arabic (Novice)
+
+# How To Contact Me
+Email: **umairshaheen7@gmail.com**
+Discord: **FullScopeJedi#3154**
+Github: **umairshaheen78**
+YouTube: **Umair's Awesome World**
