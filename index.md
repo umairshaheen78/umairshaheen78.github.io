@@ -35,4 +35,4 @@ Click [here](https://repl-authentication.shaheenumair.repl.co) to view this proj
 3. Arabic (Novice)
 
 # How To Contact Me
-Email: **umairshaheen7@gmail.com** || Discord: **FullScopeJedi#3154** | Github: **umairshaheen78** | YouTube: **Umair's Awesome World**
+Email: **umairshaheen7@gmail.com** | Discord: **FullScopeJedi#3154** | Github: **umairshaheen78** | YouTube: **Umair's Awesome World**
