@@ -1,6 +1,6 @@
 # Umair Shaheen  
 
-Welcome to Umair Shaheen's **portfolio** site. Here, you can read about the projects I've done (past and present), where I got my education from, so on so forth.
+Welcome to my **portfolio** site. Here, you can read about the projects I've done (past and present), where I got my education from, so on so forth.
 
 # Education
 Quimby Oak Middle School, San Jose | August 2019 - Present
