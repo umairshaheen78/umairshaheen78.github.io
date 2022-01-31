@@ -15,3 +15,21 @@ Repl.it Authentication — **Repl.it Project**
 This program is a way to verify or authenticate your account. You can 
 login through the website to ensure you can login to your account.
 Click [here](https://repl-authentication.shaheenumair.repl.co) to view this project.
+
+# Skills
+1. Coding/Adruino
+2. Sports
+3. Video/Audio Editing
+4. Spelling Bee (Elementary School champ)
+
+# Awards
+1. SJPL Award - Finished Tynker Course
+2. Spelling Bees
+3. WhiteHatJr Junior Class and Google Alumni Award
+4. Quimby LSI Student Ambassador
+
+# Languages
+
+1. English (Fluent)
+2. Urdu (Novice)
+3. Arabic (Novice)
