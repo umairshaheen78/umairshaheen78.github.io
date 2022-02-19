@@ -36,12 +36,15 @@ Click [here](https://repl-authentication.shaheenumair.repl.co) to view this proj
 
 # How To Contact Me
 Email: **umairshaheen7@gmail.com**
+
 ![mail](https://user-images.githubusercontent.com/62365470/154793100-9c721068-0311-4ac5-985c-a4b8b76a0b72.png)
 
 Discord: **FullScopeJedi#3154** 
+
 ![discord](https://user-images.githubusercontent.com/62365470/154793059-57392110-365b-42ae-bd8a-88d530a066b1.jpeg)
 
 Github: **umairshaheen78** 
+
 ![github](https://user-images.githubusercontent.com/62365470/154793099-9e09de16-300e-4ba6-98bd-779de76f3f5e.png)
 
 YouTube: **Umair's Awesome World**
