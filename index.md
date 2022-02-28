@@ -38,7 +38,6 @@ Click [here](https://repl-authentication.shaheenumair.repl.co) to view this proj
 Email: **umairshaheen7@gmail.com**
 
 ![mail](https://user-images.githubusercontent.com/62365470/154793360-c8f10ef9-e249-4b43-b2c7-a45ad8d1f385.png)
-![](./pic/mail =100x20)
 
 Discord: **FullScopeJedi#3154** 
 
