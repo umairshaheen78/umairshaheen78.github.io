@@ -1,3 +1,18 @@
+<!DOCTYPE html >
+<html lang="en"></html>
+<body style="background-color:powderblue;"></body>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width", initial-scale>
+    <meta http-equiv="X-UA-Compatible", content="ie=edge">
+    <title> Umair's Website</title>
+</head>
+<body>
+    <h3> Umair Shaheen </h3>
+<!-- Load an icon library -->
+<link rel="stylesheet" href="page.css">
+</div>
+
 <div class="header">
   <h2>Umair Shaheen</h2>
 </div>
